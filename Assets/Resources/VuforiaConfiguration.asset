@@ -12,16 +12,16 @@ MonoBehaviour:
   m_Name: VuforiaConfiguration
   m_EditorClassIdentifier: 
   vuforia:
-    vuforiaLicenseKey: 
-    ufoLicenseKey: QWJjQkFhdi8vLy8vQUFBQUtFaHoyQlhXQTBKUmg1cWl4TzRVMjRWaFkzZHlqRHhmVTBoWWgwT2ZVbGVyRVRLQjVBaGxVWlFRNjRQem5veVhIakFSa0MvMFNXbmFsNFZqS040YkdPK2FkUGF0dHhJUzNqdXZSL0FZQ3dTYXM0RWt1WFphdXlBVGwyS3d4dmprS0loZ0tKSnpJd3dqWXFBcWZpT2F2SndHeXNaTlBxbDViMmZ4K0I0TmNEeEhyM1duUmxYcGsySHE0c0N3cVk1MnI5TXA2TnNsZnNtSXJJcFFuRDRNdVcrWWJMSDY3VHcybEY4YU5GS1N3SUxRamhQZzNrQ3pzSm5sOWV1Z1VLdUhOWVhZNWFXZ3VZTW4vaXZwUzFlWFUvdmpXNDJiQXFJaXorM0RIOE5DR1JOY3pRT29sclNwNzZPcDZnOHdRSGVxOWNGQnpZLzBEQy84c1l6OUxzQWtyTDNPaDVqVzJJMnArL0RJWWY4TEpxbXE=
+    vuforiaLicenseKey: AYAuWkv/////AAABmWMlRTKZ4UNbjFxrdK+1Di5PES1OgSxwywNw4ghef3cjd6ue2EZOLjzIG5/8TpVSWSJuivIPMOnHiZEkqUyUe2MsySEUGOSvIZp3qcoVYPbmkb6JRsJWI7FtVv5z6xObz85AWZd+klqfl5KUrLWs7KfzVYbJuj8A8pxwjdBbDf+lw8SK/gmR8bc11bvGNl9gfGvXUDsGzaPN7tnlnElTQ1CfyzJWOp9ZD74LMouhxq12fXaAJ3S0IrsOAZapbXW6nDL8k7GBwU9+KrayJDmxtwZI99A73uQX7MwB6ZVZfE3A5q7MhDNdjMywi0x+0VeNzDBLSMpWJZnRY0FYxv1U7CXNpEq6R8MLFq5exGQ3V5yt
+    ufoLicenseKey: QWZoMDArWC8vLy8vQUFBQUtKMHJQR2F0czB4cHRORER0RG5HU1BZaVVwRXRPZWZNV0VYdS9XV0Q5RHU4N1NacVM0Y3Q3cHo4KzRPWk9USmVMRlRTdXhIWmM4Z0FzWm1rSVd6MVYzZlFEY0I2SlhOczlQb3Q3SFdDa1BackpHVTkvUHNXdUZzV1p6bHlpelpUOVpCQ0VqanNYRkpQZmxnL0NRenRkckIvenZZSjhSakI5TzlyU3hBSnNJUHNvZmx6OVYxYUhZV0xLYlhTeHlrNjBBejA4SWpTRStxVzZpTFdmaU1IYld4dTk1dC95a3NXL3ZPKzByejNyL2xtanhGdXBwWnVTMHI1N09TMDh6ajZsT0QxeHFBdlBtWnVmVXV1c0xxUFI4UHEzeTE3WGlXMEJ1T2JqL1U4YVdFM28xY05qSXAyM3JubFNTZEkzVUdrK1BxZkRZQnRlckU0NzVxOVFqbmQ2WFptYWttdGo0cWgyRWJTUk4yek8wZXg=
     delayedInitialization: 0
     cameraDeviceModeSetting: -1
-    maxSimultaneousImageTargets: 1
-    maxSimultaneousObjectTargets: 1
-    useDelayedLoadingObjectTargets: 0
+    maxSimultaneousImageTargets: 3
+    maxSimultaneousObjectTargets: 3
+    useDelayedLoadingObjectTargets: 1
     cameraDirection: 0
     mirrorVideoBackground: 0
-    version: 1.0.0
+    version: 7.2.23
   digitalEyewear:
     cameraOffset: 0.06
     distortionRenderingLayer: 31
@@ -51,14 +51,14 @@ MonoBehaviour:
     matteShader: {fileID: 15310, guid: 0000000000000000f000000000000000, type: 0}
     videoBackgroundEnabled: 1
   deviceTracker:
-    autoInitTracker: 0
-    autoStartTracker: 0
+    autoInitTracker: 1
+    autoStartTracker: 1
     trackingMode: 1
     posePrediction: 0
     modelCorrectionMode: 0
     modelTransformEnabled: 0
     modelTransform: {x: 0, y: 0.1, z: -0.1}
-    fusionMode: 7
+    fusionMode: 5
   smartTerrain:
     autoInitTracker: 0
     autoStartTracker: 0
