@@ -15,11 +15,11 @@ MonoBehaviour:
     vuforiaLicenseKey: AYAuWkv/////AAABmWMlRTKZ4UNbjFxrdK+1Di5PES1OgSxwywNw4ghef3cjd6ue2EZOLjzIG5/8TpVSWSJuivIPMOnHiZEkqUyUe2MsySEUGOSvIZp3qcoVYPbmkb6JRsJWI7FtVv5z6xObz85AWZd+klqfl5KUrLWs7KfzVYbJuj8A8pxwjdBbDf+lw8SK/gmR8bc11bvGNl9gfGvXUDsGzaPN7tnlnElTQ1CfyzJWOp9ZD74LMouhxq12fXaAJ3S0IrsOAZapbXW6nDL8k7GBwU9+KrayJDmxtwZI99A73uQX7MwB6ZVZfE3A5q7MhDNdjMywi0x+0VeNzDBLSMpWJZnRY0FYxv1U7CXNpEq6R8MLFq5exGQ3V5yt
     ufoLicenseKey: QWZoMDArWC8vLy8vQUFBQUtKMHJQR2F0czB4cHRORER0RG5HU1BZaVVwRXRPZWZNV0VYdS9XV0Q5RHU4N1NacVM0Y3Q3cHo4KzRPWk9USmVMRlRTdXhIWmM4Z0FzWm1rSVd6MVYzZlFEY0I2SlhOczlQb3Q3SFdDa1BackpHVTkvUHNXdUZzV1p6bHlpelpUOVpCQ0VqanNYRkpQZmxnL0NRenRkckIvenZZSjhSakI5TzlyU3hBSnNJUHNvZmx6OVYxYUhZV0xLYlhTeHlrNjBBejA4SWpTRStxVzZpTFdmaU1IYld4dTk1dC95a3NXL3ZPKzByejNyL2xtanhGdXBwWnVTMHI1N09TMDh6ajZsT0QxeHFBdlBtWnVmVXV1c0xxUFI4UHEzeTE3WGlXMEJ1T2JqL1U4YVdFM28xY05qSXAyM3JubFNTZEkzVUdrK1BxZkRZQnRlckU0NzVxOVFqbmQ2WFptYWttdGo0cWgyRWJTUk4yek8wZXg=
     delayedInitialization: 0
-    cameraDeviceModeSetting: -1
+    cameraDeviceModeSetting: -3
     maxSimultaneousImageTargets: 3
     maxSimultaneousObjectTargets: 3
     useDelayedLoadingObjectTargets: 1
-    cameraDirection: 0
+    cameraDirection: 1
     mirrorVideoBackground: 0
     version: 7.2.23
   digitalEyewear:
